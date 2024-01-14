@@ -52,6 +52,11 @@ The wireframes for Typer were produced in [Balsamiq](https://balsamiq.com). My w
 
 [Back to top](#contents)
 
+## Data Structure
+(assets/readme-images/Tables.png)
+(assets/readme-images/EPD.png)
+
+
 ## Site Structure
 
 The site consists of a main page, the products page, the detailed products page, the profile, the login page, the register page and a checkout. 
