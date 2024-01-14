@@ -53,8 +53,9 @@ The wireframes for Typer were produced in [Balsamiq](https://balsamiq.com). My w
 [Back to top](#contents)
 
 ## Data Structure
-(assets/readme-images/Tables.png)
-(assets/readme-images/EPD.png)
+![Data image](assets/readme-images/Tables.png)
+
+![ERD image](assets/readme-images/EPD.png)
 
 
 ## Site Structure
