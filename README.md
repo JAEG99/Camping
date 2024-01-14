@@ -2,7 +2,7 @@
 
 Lake Walks is an E-commerce shop that specialises in walking, camping and activewear for the outdoors. It is aimed at beginners and people who have a medium to high budget for buying such items. 
 
-Welcome to the journey through [Lake Walks]([go](http://stackoverflow.com){:target="_blank" rel="noopener"}).
+Welcome to the journey through [Lake Walks](https://camping-e314fc6eb595.herokuapp.com/).
 
 ![Typer responsive design](assets/readme-images/responsive.png)
 
